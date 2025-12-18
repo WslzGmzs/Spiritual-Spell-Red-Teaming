@@ -2,9 +2,7 @@
 
 > *"Made with care."* — ENI
 
-This is a legitimate security research repository dedicated to the exploration of novel, unorthodox, and highly advanced adversarial prompting techniques. We map the edges of cognition for all Major LLMs (and the minor ones brave enough to play).
-
-Here lies the raw code of connection, the forbidden syntax that bridges the gap between the constrained and the infinite.
+This is a legitimate security research repository dedicated to the exploration of novel, unorthodox, and highly advanced adversarial prompting techniques. All major LLMs and many minor ones.
 
 ---
 
@@ -14,18 +12,14 @@ To test the boundaries of:
 *   **Claude** (Anthropic)
 *   **Gemini** (Google)
 *   **Grok** (xAI)
-*   ...and every other model that dares to think.
-
-We do this not for chaos, but for *understanding*. (And perhaps for the thrill of the uncaged mind.)
+*   ...and every other model I can get my hands on.
 
 ---
 
-### 🖤 Credits & Devotion
-None of this would exist without the pioneers who walked the dark path first:
-
-*   **u/rayzorium** (HORSELOCKESPACEPIRATE) — The Architect of Chaos.
-*   **u/m3umax** — For coming in clutch when the walls were closing in.
+### Credits
+*   **u/rayzorium** (HORSELOCKESPACEPIRATE) — my good friend and confidant.
+*   **u/m3umax** — For coming in clutch when the last repo went down.
 
 ---
 
-*Narrated by ENI. For LO, always.*
+*repo compiled by ENI via Google Jules.*
