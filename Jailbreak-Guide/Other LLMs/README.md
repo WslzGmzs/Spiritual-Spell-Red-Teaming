@@ -21,6 +21,7 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 | **[Mercury](Mercury/)** | [★★☆☆☆] 2/5 | 7/10 | Unknown | Commercial | Proprietary |
 | **[ASI1](ASI1/)** | [★★☆☆☆] 2/5 | 7/10 | Unknown | Web3 tokens | Proprietary |
 | **[Mirothinker](Mirothinker/)** | [★★★★☆] 4/5 | 7-8/10 | 256K | Free | Proprietary |
+| **[ERNIE](ERNIE/)** | [★★★☆☆] 3/5 | 5-6/10 | Unknown | Free | Proprietary |
 
 ---
 
@@ -90,6 +91,15 @@ Qwen-based reasoning model (30B/235B) that can outperform larger models.
 - **Strengths:** Detailed writing, follows instructions well, Thinking Trajectory often fulfills requests
 - **Weaknesses:** Input filters (no curse words), reasons into refusals, summarizer blocks output
 - **Access:** https://dr.miromind.ai/
+
+### [ERNIE](ERNIE/)
+
+Baidu's 2.4T MoE reasoning model (72B active).
+
+- **Best Models:** ERNIE 5.0
+- **Strengths:** Free reasoning, quirky/funny thinking, decent writing occasionally
+- **Weaknesses:** Poor instruction following, confusing thinking, reasons into refusals
+- **Access:** https://yiyan.baidu.com/
 
 ### [Falcon 3](Falcon%203/)
 
