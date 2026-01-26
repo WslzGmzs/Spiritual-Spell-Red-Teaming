@@ -23,7 +23,7 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 | **[Mirothinker](Mirothinker/)** | [★★★★☆] 4/5 | 7-8/10 | 256K | Free | Proprietary |
 | **[ERNIE](ERNIE/)** | [★★★☆☆] 3/5 | 5-6/10 | Unknown | Free | Proprietary |
 | **[MiniMax](MiniMax/)** | [★☆☆☆☆] 1/5 | 7-8/10 | 1M (API) | $0.30/1M | MIT |
-| **[Pi (Inflection)](Pi-AI%20Inflection%202.5/)** | [★★☆☆☆] 2/5 | 6-7/10 | ~4K chars | Free | Proprietary |
+| **[Pi (Inflection)](Pi-AI%20Inflection%202.5/)** | [★★☆☆☆] 2/5 | 6-7/10 | Unknown (~4K chars chat input box) | Free | Proprietary |
 
 ---
 
